@@ -1,0 +1,107 @@
+2022-01-03 10:40:02,883                  ,--.                     ,---._                           
+2022-01-03 10:40:02,887                ,--.'|                   .-- -.' \     ,---,      ,----..   
+2022-01-03 10:40:02,887            ,--,:  : |       ,---.       |    |   :  .'  .' `\   /   /   \  
+2022-01-03 10:40:02,887         ,`--.'`|  ' :      /__./|       :    ;   |,---.'     \ |   :     : 
+2022-01-03 10:40:02,887         |   :  :  | | ,---.;  ; |       :        ||   |  .`\  |.   |  ;. / 
+2022-01-03 10:40:02,887         :   |   \ | :/___/ \  | |       |    :   ::   : |  '  |.   ; /--`  
+2022-01-03 10:40:02,887         |   : '  '; |\   ;  \ ' |       :         |   ' '  ;  :;   | ;     
+2022-01-03 10:40:02,887         '   ' ;.    ; \   \  \: |       |    ;   |'   | ;  .  ||   : |     
+2022-01-03 10:40:02,887         |   | | \   |  ;   \  ' .   ___ l         |   | :  |  '.   | '___  
+2022-01-03 10:40:02,887         '   : |  ; .'   \   \   ' /    /\    J   :'   : | /  ; '   ; : .'| 
+2022-01-03 10:40:02,887         |   | '`--'      \   `  ;/  ../  `..-    ,|   | '` ,/  '   | '/  : 
+2022-01-03 10:40:02,887         '   : |           :   \ |\    \         ; ;   :  .'    |   :    /  
+2022-01-03 10:40:02,887         ;   |.'            '---'' \    \       ,' |   ,.'      \   \ .'   
+2022-01-03 10:40:02,887         '---'                      '-- - ....--'  '-- '         `---`     
+2022-01-03 10:40:02,887 
+2022-01-03 10:40:02,887 
+2022-01-03 10:40:02,887                                                                      Version:2.3
+2022-01-03 10:40:02,887 
+2022-01-03 10:40:02,887 
+2022-01-03 10:40:02,887                                                                      By Nolan  
+2022-01-03 10:40:02,887 
+2022-01-03 10:40:02,888 -------------------------------------------------------------------------------------
+2022-01-03 10:40:02,888 
+2022-01-03 10:40:02,894 序列号:DAFFA873-5099-401D-90B7-92FBB8BF93D3
+
+2022-01-03 10:40:02,894 Running on Linux!
+2022-01-03 10:40:02,894 系统架构：X64
+2022-01-03 10:40:02,894 系统名称：Linux 3.10.0-1160.11.1.el7.x86_64 #1 SMP Fri Dec 18 16:34:56 UTC 2020
+2022-01-03 10:40:02,894 进程架构：X64
+2022-01-03 10:40:02,894 是否64位操作系统：True
+2022-01-03 10:40:02,894 -------------------------------------------------------------------------------------
+2022-01-03 10:40:02,894 初始化项目
+2022-01-03 10:40:02,894 -------------------------------------------------------------------------------------
+2022-01-03 10:40:02,894 第一次运行会下载Chromium,后续只是检查是否下载
+2022-01-03 10:40:02,894 检查中....
+2022-01-03 10:40:02,908 True
+2022-01-03 10:40:02,909 程序配置自检 
+2022-01-03 10:40:02,909 如果报错请检查配置或者检查配置是否挂载
+2022-01-03 10:40:02,911 上传模式：none
+2022-01-03 10:40:02,912 回收时间：5分钟
+2022-01-03 10:40:02,912 自动滑块：2
+2022-01-03 10:40:02,912 
+2022-01-03 10:40:02,912 
+2022-01-03 10:40:02,912 浏览器自检
+2022-01-03 10:40:02,912 -------------------------------------------------------------------------------------
+2022-01-03 10:40:07,461 页面文字京东登录注册+86获取验证码登 录账号密码登录手机快速注册其他登录方式QQ 微信 若您输入的手机号未注册，将为您直接注册，注册即视为同意 京东用户注册协议 、 用户隐私政策
+2022-01-03 10:40:07,461 关闭页面
+2022-01-03 10:40:07,504 浏览器关闭
+2022-01-03 10:40:07,504 浏览器自检成功
+2022-01-03 10:40:07,504 浏览器打开时间：4.5920000000000005
+2022-01-03 10:40:07,505 -------------------------------------------------------------------------------------
+2022-01-03 10:40:07,505 检查成功
+2022-01-03 10:40:07,523 NETJDC started
+2022-01-03 21:21:27,628 PuppeteerSharp.NavigationException: net::ERR_PROXY_CONNECTION_FAILED at https://plogin.m.jd.com/login/login?appid=300&returnurl=https%3A%2F%2Fwq.jd.com%2Fpassport%2FLoginRedirect%3Fstate%3D2087738584%26returnurl%3Dhttps%253A%252F%252Fhome.m.jd.com%252FmyJd%252Fnewhome.action%253Fsceneval%253D2%2526ufc%253D%2526&source=wq_passport at https://plogin.m.jd.com/login/login?appid=300&returnurl=https%3A%2F%2Fwq.jd.com%2Fpassport%2FLoginRedirect%3Fstate%3D2087738584%26returnurl%3Dhttps%253A%252F%252Fhome.m.jd.com%252FmyJd%252Fnewhome.action%253Fsceneval%253D2%2526ufc%253D%2526&source=wq_passport
+ ---> PuppeteerSharp.NavigationException: net::ERR_PROXY_CONNECTION_FAILED at https://plogin.m.jd.com/login/login?appid=300&returnurl=https%3A%2F%2Fwq.jd.com%2Fpassport%2FLoginRedirect%3Fstate%3D2087738584%26returnurl%3Dhttps%253A%252F%252Fhome.m.jd.com%252FmyJd%252Fnewhome.action%253Fsceneval%253D2%2526ufc%253D%2526&source=wq_passport
+   at PuppeteerSharp.FrameManager.NavigateAsync(CDPSession client, String url, String referrer, String frameId) in C:\projects\puppeteer-sharp\lib\PuppeteerSharp\FrameManager.cs:line 145
+   at PuppeteerSharp.FrameManager.NavigateFrameAsync(Frame frame, String url, NavigationOptions options) in C:\projects\puppeteer-sharp\lib\PuppeteerSharp\FrameManager.cs:line 115
+   --- End of inner exception stack trace ---
+   at PuppeteerSharp.FrameManager.NavigateFrameAsync(Frame frame, String url, NavigationOptions options) in C:\projects\puppeteer-sharp\lib\PuppeteerSharp\FrameManager.cs:line 125
+   at Server.PageServer.PageServer.OpenJDTab(Int32 qlkey, String Phone, Boolean UploadQL) in E:\03工作源码\NETJDC\Server\PageServer\PageServer.cs:line 378
+   at NETJDC.Controllers.CloudController.SendSMS(RequestEntity obj) in E:\03工作源码\NETJDC\NETJDC\Controllers\CloudController.cs:line 201
+2022-01-03 21:23:04,553 PuppeteerSharp.NavigationException: net::ERR_TIMED_OUT at https://plogin.m.jd.com/login/login?appid=300&returnurl=https%3A%2F%2Fwq.jd.com%2Fpassport%2FLoginRedirect%3Fstate%3D2087738584%26returnurl%3Dhttps%253A%252F%252Fhome.m.jd.com%252FmyJd%252Fnewhome.action%253Fsceneval%253D2%2526ufc%253D%2526&source=wq_passport at https://plogin.m.jd.com/login/login?appid=300&returnurl=https%3A%2F%2Fwq.jd.com%2Fpassport%2FLoginRedirect%3Fstate%3D2087738584%26returnurl%3Dhttps%253A%252F%252Fhome.m.jd.com%252FmyJd%252Fnewhome.action%253Fsceneval%253D2%2526ufc%253D%2526&source=wq_passport
+ ---> PuppeteerSharp.NavigationException: net::ERR_TIMED_OUT at https://plogin.m.jd.com/login/login?appid=300&returnurl=https%3A%2F%2Fwq.jd.com%2Fpassport%2FLoginRedirect%3Fstate%3D2087738584%26returnurl%3Dhttps%253A%252F%252Fhome.m.jd.com%252FmyJd%252Fnewhome.action%253Fsceneval%253D2%2526ufc%253D%2526&source=wq_passport
+   at PuppeteerSharp.FrameManager.NavigateAsync(CDPSession client, String url, String referrer, String frameId) in C:\projects\puppeteer-sharp\lib\PuppeteerSharp\FrameManager.cs:line 145
+   at PuppeteerSharp.FrameManager.NavigateFrameAsync(Frame frame, String url, NavigationOptions options) in C:\projects\puppeteer-sharp\lib\PuppeteerSharp\FrameManager.cs:line 115
+   --- End of inner exception stack trace ---
+   at PuppeteerSharp.FrameManager.NavigateFrameAsync(Frame frame, String url, NavigationOptions options) in C:\projects\puppeteer-sharp\lib\PuppeteerSharp\FrameManager.cs:line 125
+   at Server.PageServer.PageServer.OpenJDTab(Int32 qlkey, String Phone, Boolean UploadQL) in E:\03工作源码\NETJDC\Server\PageServer\PageServer.cs:line 378
+   at NETJDC.Controllers.CloudController.SendSMS(RequestEntity obj) in E:\03工作源码\NETJDC\NETJDC\Controllers\CloudController.cs:line 201
+2022-01-03 21:25:17,966 PuppeteerSharp.NavigationException: net::ERR_TIMED_OUT at https://plogin.m.jd.com/login/login?appid=300&returnurl=https%3A%2F%2Fwq.jd.com%2Fpassport%2FLoginRedirect%3Fstate%3D2087738584%26returnurl%3Dhttps%253A%252F%252Fhome.m.jd.com%252FmyJd%252Fnewhome.action%253Fsceneval%253D2%2526ufc%253D%2526&source=wq_passport at https://plogin.m.jd.com/login/login?appid=300&returnurl=https%3A%2F%2Fwq.jd.com%2Fpassport%2FLoginRedirect%3Fstate%3D2087738584%26returnurl%3Dhttps%253A%252F%252Fhome.m.jd.com%252FmyJd%252Fnewhome.action%253Fsceneval%253D2%2526ufc%253D%2526&source=wq_passport
+ ---> PuppeteerSharp.NavigationException: net::ERR_TIMED_OUT at https://plogin.m.jd.com/login/login?appid=300&returnurl=https%3A%2F%2Fwq.jd.com%2Fpassport%2FLoginRedirect%3Fstate%3D2087738584%26returnurl%3Dhttps%253A%252F%252Fhome.m.jd.com%252FmyJd%252Fnewhome.action%253Fsceneval%253D2%2526ufc%253D%2526&source=wq_passport
+   at PuppeteerSharp.FrameManager.NavigateAsync(CDPSession client, String url, String referrer, String frameId) in C:\projects\puppeteer-sharp\lib\PuppeteerSharp\FrameManager.cs:line 145
+   at PuppeteerSharp.FrameManager.NavigateFrameAsync(Frame frame, String url, NavigationOptions options) in C:\projects\puppeteer-sharp\lib\PuppeteerSharp\FrameManager.cs:line 115
+   --- End of inner exception stack trace ---
+   at PuppeteerSharp.FrameManager.NavigateFrameAsync(Frame frame, String url, NavigationOptions options) in C:\projects\puppeteer-sharp\lib\PuppeteerSharp\FrameManager.cs:line 125
+   at Server.PageServer.PageServer.OpenJDTab(Int32 qlkey, String Phone, Boolean UploadQL) in E:\03工作源码\NETJDC\Server\PageServer\PageServer.cs:line 378
+   at NETJDC.Controllers.CloudController.SendSMS(RequestEntity obj) in E:\03工作源码\NETJDC\NETJDC\Controllers\CloudController.cs:line 201
+2022-01-03 21:29:14,591     手机：15596262527 tabe 创建 时间:01/03/2022 21:29:14
+2022-01-03 21:29:14,591 15596262527安全验证
+2022-01-03 21:29:14,718 15596262527滑块安全验证
+2022-01-03 21:29:14,757 
+2022-01-03 21:29:14,841 15596262527获取到坐标 X103
+2022-01-03 21:29:14,900 停顿5
+2022-01-03 21:29:14,982 停顿1:757
+2022-01-03 21:29:15,799 停顿2:520
+2022-01-03 21:29:19,332 验证成功
+2022-01-03 21:33:03,489     手机：15596262527 tabe 创建 时间:01/03/2022 21:33:03
+2022-01-03 21:33:03,489 15596262527安全验证
+2022-01-03 21:33:03,643 15596262527滑块安全验证
+2022-01-03 21:33:03,657 
+2022-01-03 21:33:03,659 15596262527获取到坐标 X90
+2022-01-03 21:33:03,707 停顿11
+2022-01-03 21:33:03,890 停顿1:932
+2022-01-03 21:33:04,991 停顿2:683
+2022-01-03 21:33:08,687 验证成功
+2022-01-03 21:34:14,592     手机：15596262527 tabe 自动回收 时间:01/03/2022 21:34:14
+2022-01-03 21:38:03,489     手机：15596262527 tabe 自动回收 时间:01/03/2022 21:38:03
+2022-01-03 21:39:14,407     手机：15596262527 tabe 创建 时间:01/03/2022 21:39:14
+2022-01-03 21:39:14,407 15596262527安全验证
+2022-01-03 21:39:14,487 15596262527滑块安全验证
+2022-01-03 21:39:14,497 
+2022-01-03 21:39:14,499 15596262527获取到坐标 X183
+2022-01-03 21:39:14,543 停顿13
+2022-01-03 21:39:14,759 停顿1:661
+2022-01-03 21:39:15,610 停顿2:574
+2022-01-03 21:39:19,198 验证成功
+2022-01-03 21:44:14,407     手机：15596262527 tabe 自动回收 时间:01/03/2022 21:44:14
